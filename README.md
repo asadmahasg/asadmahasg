@@ -8,5 +8,3 @@
 - 🚀 I'm always looking for ways to improve my skills and stay up-to-date with the latest trends and technologies.
 - 📂 Check out my portfolio at [asadmahmood.site](asadmahmood.site).
 - 📫 You can reach me out at asad.mahmood.official1@gmail.com.
-- 
-
