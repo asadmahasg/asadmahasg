@@ -6,5 +6,4 @@
 - 💡 I'm passionate about problem-solving and finding elegant solutions to complex challenges.
 - 📚 In my free time, I enjoy reading about language core, and working on personal coding projects.
 - 🚀 I'm always looking for ways to improve my skills and stay up-to-date with the latest trends and technologies.
-- 📂 Check out my portfolio at [asadmahmood.site](asadmahmood.site).
 - 📫 You can reach me out at asad.mahmood.official1@gmail.com.
