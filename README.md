@@ -2,7 +2,7 @@
 
 🎓 **Bachelor's in Computer Science** | 💻 **Senior Software Engineer** | 🚀 **Golang Enthusiast**
 
-👨‍💻 I have 4+ years of experience in developing efficient, scalable systems using **Golang**, **Java**, and the **MERN stack**. Currently, I’m leading engineering efforts, building robust cloud solutions, and crafting innovative systems.
+👨‍💻 I have 3+ years of experience in developing efficient, scalable systems using **Golang**, **Java**, and the **MERN stack**. Currently, I’m leading engineering efforts, building robust cloud solutions, and crafting innovative systems.
 
 🔍 **What excites me?**
 - Problem-solving, microservices architecture, and performance optimization
