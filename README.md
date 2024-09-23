@@ -17,6 +17,6 @@
 - [Portfolio](https://portfolio.codemarie.com)
 - [LinkedIn](https://linkedin.com/in/asadmahasg)
 - [GitHub](https://github.com/asadmahasg)
-- Email: asadmahasg@gmail.com
+- [Email](mailto:asadmahasg@gmail.com)
 
 💡 Feel free to explore my projects or reach out if you'd like to collaborate!
