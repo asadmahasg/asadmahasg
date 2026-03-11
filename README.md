@@ -1,6 +1,6 @@
 # Hey there, I'm Asad Mahmood (@asadmahasg)!
 
-**Bachelor's in Computer Science** | 💻 **Senior Software Engineer** | 🚀 **Golang Enthusiast**
+**Bachelor's in Computer Science** | **Senior Software Engineer** | **Golang Enthusiast**
 
 I have 5+ years of experience in developing efficient, scalable systems using **Golang**, **Java**, the **MEAN stack** and the **MERN stack**. Currently, I’m leading engineering efforts, building robust cloud solutions, and crafting innovative systems.
 
